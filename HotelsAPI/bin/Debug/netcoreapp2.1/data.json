@@ -1,0 +1,32 @@
+[
+    {
+        "ID":"1",
+        "Name":"Ibis",
+        "Amenities":"Free Breakfast, Free Laundry, Free Parking, Child Friendly",
+        "Address":"Survey No 32, Viman Nagar Rd, Pune, Maharashtra 411014"
+    },
+    {
+        "ID":"2",
+        "Name":"Treebo Mapple",
+        "Amenities":"Free Wi-Fi, Air-conditioned, Business centre",
+        "Address":"Gate No. 1347/I, Ubale Nagar Nagar-Pune Highway Road, Wagholi, Pune, Maharashtra 412207"
+    },
+    {
+        "ID":"3",
+        "Name":"The Taj",
+        "Amenities":"Free Wi-Fi, Outdoor Pool, Business centre, Room Service",
+        "Address":"Block No. 9, Sector-17 A, Chandigarh, 160017"
+    },
+    {
+        "ID":"4",
+        "Name":"Dhauladhar",
+        "Amenities":"Free Wi-Fi, Free parking, Air-conditioned, Business centre",
+        "Address":" Major District Road 45, Sudher, Dharamshala, Himachal Pradesh 176216"
+    },
+    {
+        "ID":"5",
+        "Name":"Hotel Marina",
+        "Amenities":"Free Breakfast, Free Laundry, Free Parking, Child Friendly",
+        "Address":"Mall Road, Shimla, Himachal Pradesh 171001"
+    }
+]
