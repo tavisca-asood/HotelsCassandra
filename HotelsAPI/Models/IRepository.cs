@@ -8,5 +8,6 @@ namespace HotelsAPI.Models
     public interface IRepository
     {
         void Book(Booked booked);
+        List<Booked> GetBookedHotels();
     }
 }

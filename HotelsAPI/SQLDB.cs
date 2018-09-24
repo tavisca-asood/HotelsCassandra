@@ -14,5 +14,11 @@ namespace HotelsAPI
             entity.BookedHotels.Add(booked);
             entity.SaveChanges();
         }
+
+        public List<Booked> GetBookedHotels()
+        {
+            SQLEntity entity = new SQLEntity();
+            return entity.BookedHotels.ToList();
+        }
     }
 }
